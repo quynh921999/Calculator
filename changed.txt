@@ -1,0 +1,3 @@
+Modified:
+ - Test class : CalculatorBiTest, CalculatorMonoTest, CalculatorTest
+ - class: Calculator
